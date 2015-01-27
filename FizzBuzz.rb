@@ -13,4 +13,4 @@ print numb % 3 == 0 ? "#{numb} Fizz" : "#{numb}"
 puts numb % 5 == 0 ? "Buzz" : ""
 
 }
-
+#check out these notes!!
