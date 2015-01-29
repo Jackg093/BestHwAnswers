@@ -14,3 +14,4 @@ puts numb % 5 == 0 ? "Buzz" : ""
 
 }
 #check out these notes!!
+#this is Jack, I'm re-commitin this for my assignment
